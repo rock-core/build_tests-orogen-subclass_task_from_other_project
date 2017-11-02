@@ -1,0 +1,7 @@
+name "subclass_task_from_other_project"
+
+using_task_library 'root_project'
+
+task_context "Task" do
+    subclasses "root_project::Task"
+end

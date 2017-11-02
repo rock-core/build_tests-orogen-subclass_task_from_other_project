@@ -1,0 +1,6 @@
+<package>
+  <description brief="Test subclassing tasks that are imported from other task libraries">
+  </description>
+  <depend package="build_tests/orogen/root_project" />
+</package>
+
